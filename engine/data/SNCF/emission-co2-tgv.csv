@@ -1,0 +1,113 @@
+Type de trajet;Liaison;Distance (km);TGV (1 pers.) - Empreinte CO2e (kgCO2e/voyageur)
+Province/Province;Dijon Ville - Avignon TGV;423;0.73295429
+Province/Province;Lorraine TGV - Aéroport CDG2 TGV;283;0.49089096
+Province/Province;Lyon Part Dieu - Nantes;807;1.39641102
+Province/Province;Lyon Part Dieu - Nice Ville;546;0.9453585
+Province/Province;Lyon Part Dieu - Rennes;785;1.35854305
+Province/Province;Lyon Part Dieu - Toulon;389;0.67350803
+Province/Province;Nantes - Brest;398;0.68942403
+Province/Province;Nantes - Clermont Ferrand;551;0.95405867
+Paris/Province;Paris - Anger St Laud;298;0.51618183
+Paris/Province;Paris - Angoulême;428;0.74078946
+Paris/Province;Paris - Annecy;546;0.94615084
+Paris/Province;Paris - Antibes;951;1.6464583
+Paris/Province;Paris - Bellegarde;469;0.81211217
+Paris/Province;Paris - Brest;613;1.06075469
+Paris/Province;Paris - Dole;333;0.57645503
+Paris/Province;Paris - Grenoble;556;0.9620357
+Paris/Province;Paris - Hendaye;770;1.33210173
+Paris/Province;Paris - Le Mans;201;0.34890294
+Paris/Province;Paris - Lourdes;808;1.39855103
+Paris/Province;Paris - Mâcon Loché;365;0.63255201
+Paris/Province;Paris - Marseille;750;1.29773874
+Paris/Province;Paris - Nancy;328;0.568132
+Paris/Province;Paris - Nantes;385;0.66750493
+Paris/Province;Paris - Nice;971;1.6810064
+Paris/Province;Paris - Nîmes;689;1.19205996
+Paris/Province;Paris - Saint Malo;444;0.7695559
+Paris/Province;Paris - Toulouse;793;1.37360789
+Province/Province;Strasbourg - Marne la Vallée;428;0.74185341
+Province/Province;Strasbourg - Nantes;862;1.49290177
+Province/Province;Lorraine TGV - Rennes;694;1.2013812
+Province/Province;Lyon Part Dieu - Aéroport CDG2 TGV;442;0.7649887
+Province/Province;Lyon Part Dieu - Massy TGV;435;0.75303267
+Province/Province;Lyon Part Dieu - Toulouse;560;0.96989509
+Province/Province;Marseille - Rennes;1105;1.91325371
+Province/Province;Nantes - Nice;1349;2.33438934
+Province/Province;Nantes - Toulouse;782;1.35300013
+Paris/Province;Paris - Agen;672;1.16363433
+Paris/Province;Paris - Aix;730;1.264284
+Paris/Province;Paris - Besançon Viotte;376;0.65123947
+Paris/Province;Paris - Bourg en Bresse;405;0.7009095
+Paris/Province;Paris - Châtellerault;286;0.49649616
+Paris/Province;Paris - Douai;204;0.35309992
+Paris/Province;Paris - Libourne;525;0.9099108
+Paris/Province;Paris - Lyon Part Dieu;429;0.74302808
+Paris/Province;Paris - Morlaix;553;0.95756538
+Paris/Province;Paris - Moutiers Salins;608;1.05242474
+Paris/Province;Paris - Niort;392;0.67888141
+Paris/Province;Paris - Pau;769;1.33129901
+Paris/Province;Paris - Saint Raphael;908;1.5719645
+Paris/Province;Paris - Surgères;426;0.73771525
+Paris/Province;Paris - Thionville;343;0.59437264
+Paris/Province;Paris - Tours (St Pierre des Corps);220;0.38184733
+Province/Province;Bordeaux - Aéroport CDG2 TGV;609;1.05400769
+Province/Province;Bordeaux - Lille Europe;812;1.40548487
+Province/Province;Lille Europe - Lyon Part Dieu;645;1.11646588
+Province/Province;Lille Europe - Saint Pierre des Corps;496;0.8580973
+Province/Province;Marseille - Besançon Franche Comté TGV;584;1.01063486
+Paris/Province;Paris - Cannes;940;1.62739543
+Paris/Province;Paris - Charleville Mézières;233;0.40452071
+Paris/Province;Paris - Colmar;516;0.89336681
+Paris/Province;Paris - Dijon;286;0.49627818
+Paris/Province;Paris - Dunkerque;305;0.52826761
+Paris/Province;Paris - Guingamp;495;0.85709563
+Paris/Province;Paris - La Rochelle;459;0.79527408
+Paris/Province;Paris - Lille-Europe;225;0.38968077
+Paris/Province;Paris - Lorient;543;0.93981731
+Paris/Province;Paris - Metz;314;0.5433757
+Paris/Province;Paris - Narbonne;836;1.44663465
+Paris/Province;Paris - Rennes;363;0.62963696
+Paris/Province;Paris - Valenciennes;236;0.40974358
+Province/Province;Strasbourg - Aéroport CDG2 TGV;430;0.74454356
+Province/Province;Bordeaux - Lorraine TGV;867;1.50097914
+Province/Province;Massy TGV - Poitiers;306;0.52954954
+Province/Province;Montpellier - Nantes;1116;1.93161247
+Paris/Province;Paris - Arras;178;0.30920809
+Paris/Province;Paris - Auray;508;0.88009079
+Paris/Province;Paris - Beziers;858;1.48601291
+Paris/Province;Paris - Biarritz;744;1.28797808
+Paris/Province;Paris - Bordeaux;537;0.9292349
+Paris/Province;Paris - Bourg St Maurice;636;1.1018197
+Paris/Province;Paris - Dax;684;1.18446526
+Paris/Province;Paris - Montpellier;738;1.27822953
+Paris/Province;Paris - Mulhouse;507;0.87762208
+Paris/Province;Paris - Saint Etienne;488;0.84557556
+Paris/Province;Paris - Strasbourg;450;0.7795034
+Paris/Province;Paris - Toulon;814;1.40915593
+Paris/Province;Paris - Valence TGV;527;0.91192452
+Province/Province;Strasbourg - Lyon Part Dieu;496;0.85914741
+Province/Province;Bordeaux - Champagne Ardenne;700;1.21110553
+Province/Province;Lille Europe - Lorient;818;1.41606728
+Province/Province;Lille Europe - Marseille;965;1.67117654
+Province/Province;Lille Europe - Montpellier;954;1.65166733
+Province/Province;Lille Europe - Nantes;661;1.1437549
+Province/Province;Lille Europe - Poitiers;595;1.02992609
+Province/Province;Lille Europe - Rennes;639;1.10588693
+Province/Province;Montpellier - Belfort Montbéliard TGV;654;1.13279362
+Paris/Province;Paris - Aix Les Bains;507;0.87778816
+Paris/Province;Paris - Avignon TGV;661;1.1435646
+Paris/Province;Paris - Bayonne;734;1.27113134
+Paris/Province;Paris - Chambery;531;0.92027523
+Paris/Province;Paris - La Baule Escoublac;465;0.80571636
+Paris/Province;Paris - Laval;290;0.50309438
+Paris/Province;Paris - Le Creusot;305;0.52847348
+Paris/Province;Paris - Lens;197;0.34243966
+Paris/Province;Paris - Montélimar;581;1.0064621
+Paris/Province;Paris - Perpignan;900;1.55757782
+Paris/Province;Paris - Poitiers;320;0.55367612
+Paris/Province;Paris - Quimper;608;1.05288838
+Paris/Province;Paris - Reims;146;0.25284988
+Paris/Province;Paris - Saint Brieuc;465;0.80487039
+Paris/Province;Paris - Saint Nazaire;449;0.77750698
+Paris/Province;Paris - Vannes;489;0.84692842
